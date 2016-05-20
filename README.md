@@ -1,2 +1,0 @@
-# MyOwnTest
-Starting withGit
